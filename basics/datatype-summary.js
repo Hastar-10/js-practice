@@ -20,4 +20,15 @@ const myFunct=function(){
     console.log("Hello World")
 } //function stored in a variable
 
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+//Stack(Primitive) , Heap(Non-Primitive)
+
+let myname="Saksham Awasthi"
+console.log(myname)
+
+
+let userOne={
+    email:"saksham@gmail.com",
+    upi:"user@xyl"
+}
